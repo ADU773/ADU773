@@ -64,12 +64,13 @@
 ## 📦 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=figma-plugin-project&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=web-app-project&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=LipiKaar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=FromFlow&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=automation-tool&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=SIHv1.0&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=Smart-Parking-System&theme=tokyonight" />
 </p>
 
 ---
@@ -91,12 +92,12 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ADU773&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ADU773&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADU773&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -112,7 +113,7 @@ flowchart LR
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ADU773">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -127,3 +128,4 @@ flowchart LR
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=40&section=footer" />
 </p>
 ```
+
