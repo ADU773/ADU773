@@ -116,6 +116,15 @@ flowchart LR
   <a href="https://github.com/ADU773">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/advaith-a-arun/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/advth540/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:aadvaithofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
@@ -128,4 +137,3 @@ flowchart LR
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=40&section=footer" />
 </p>
 ```
-
