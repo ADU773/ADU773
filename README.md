@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Perfection+is+the+art+of+imperfections;Building+Powerful+Figma+Plugins;JavaScript+%7C+TypeScript+%7C+Python;Design+Meets+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Perfect+art+is+a+art+of+imperfections;Building+Powerful+Figma+Plugins;JavaScript+%7C+TypeScript+%7C+Python;Design+Meets+Code" />
 </p>
 
 
