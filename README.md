@@ -64,12 +64,12 @@
 ## 📦 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=figma-plugin-project&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=web-app-project&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=figma-plugin-project&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=web-app-project&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=automation-tool&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=automation-tool&theme=tokyonight" />
 </p>
 
 ---
