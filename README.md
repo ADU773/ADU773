@@ -1,4 +1,3 @@
-````markdown
 <!-- ================================================= -->
 <!--            GITHUB PROFILE README (FINAL)          -->
 <!-- ================================================= -->
@@ -19,29 +18,25 @@
 
 ## 🚀 About Me
 
-```txt
-💡 I build modern, functional web experiences
-🎨 I develop Figma plugins that automate design workflows
-⚙️ I enjoy converting ideas into practical tools
-🧠 Curious, hands-on, and always learning
-````
+- 💡 I build modern, functional web experiences  
+- 🎨 I develop Figma plugins that automate design workflows  
+- ⚙️ I enjoy converting ideas into practical tools  
+- 🧠 Curious, hands-on, and always learning  
 
 ---
 
 ## 🛠️ What I Specialize In
 
 ### 🌐 Webpage Building
-
-* Responsive & accessible UI design
-* Frontend logic & performance optimization
-* JavaScript & TypeScript-based projects
+- Responsive & accessible UI design
+- Frontend logic & performance optimization
+- JavaScript & TypeScript-based projects
 
 ### 🎨 Figma Plugin Development
-
-* Custom plugin UIs (HTML, CSS, JS)
-* Font, text & layout automation
-* API & AI-integrated tools
-* Productivity-focused design utilities
+- Custom plugin UIs (HTML, CSS, JS)
+- Font, text & layout automation
+- API & AI-integrated tools
+- Productivity-focused design utilities
 
 ---
 
@@ -51,13 +46,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,c&theme=dark" />
 </p>
 
-```text
-✔ JavaScript
-✔ TypeScript
-✔ Python
-✔ C
-✔ ADA
-```
+- JavaScript  
+- TypeScript  
+- Python  
+- C  
+- ADA  
 
 ---
 
@@ -77,15 +70,7 @@
 
 ## 🧠 Development Workflow
 
-```mermaid
-flowchart LR
-    Idea --> Design
-    Design --> Prototype
-    Prototype --> Build
-    Build --> Test
-    Test --> Optimize
-    Optimize --> Deploy
-```
+Idea → Design → Prototype → Build → Test → Optimize → Deploy
 
 ---
 
@@ -99,14 +84,6 @@ flowchart LR
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADU773&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🧩 Currently Exploring
-
-* Advanced Figma plugin UX patterns
-* AI-assisted design automation
-* High-performance web applications
 
 ---
 
@@ -136,4 +113,3 @@ flowchart LR
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=40&section=footer" />
 </p>
-```
