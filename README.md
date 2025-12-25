@@ -59,7 +59,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADU773&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 📫 Connect With Me
 
@@ -78,7 +78,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <sub>PERFECT ART IS A ART OF IMPERFECTIONS</sub>
