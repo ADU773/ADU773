@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="./banner.png" alt="Advaith Banner" />
+  <img src="./Advaith Banner.png" alt="Advaith Banner" /> 
 </p>
 
 <h3 align="center">
