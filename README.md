@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=220&section=header&text=Advaith&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="./banner.png" alt="Advaith Banner" />
 </p>
 
 <h3 align="center">
@@ -11,9 +11,8 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Perfect+art+is+a+art+of+imperfections;Building+Powerful+Figma+Plugins;JavaScript+%7C+TypeScript+%7C+Python;Design+Meets+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Perfection+is+the+art+of+imperfections;Building+Powerful+Figma+Plugins;JavaScript+%7C+TypeScript+%7C+Python;Design+Meets+Code" />
 </p>
-
 
 ---
 
@@ -64,53 +63,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=SIHv1.0&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=Smart-Parking-System&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Development Workflow
-
-Idea → Design → Prototype → Build → Test → Optimize → Deploy
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ADU773&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ADU773&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADU773&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ADU773">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/advaith-a-arun/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/advth540/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:aadvaithofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>⚡ Built with curiosity • Designed with intent • Powered by code</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=40&section=footer" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=Smart-Parking-System&
