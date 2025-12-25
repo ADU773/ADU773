@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=220&section=header&text=Advaith&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="./Advaith Banner.png" alt="Advaith Banner" /> 
 </p>
 
 <h3 align="center">
