@@ -46,13 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADU773&repo=Smart-Parking-System&theme=tokyonight" />
 </p>
 
----
 
-## 🧠 Development Workflow
-
-Idea → Design → Prototype → Build → Test → Optimize → Deploy
-
----
 
 ## 📊 GitHub Stats
 
