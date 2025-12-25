@@ -81,9 +81,6 @@
 ---
 
 <p align="center">
-  <sub>⚡ Built with curiosity • Designed with intent • Powered by code</sub>
+  <sub>PERFECT ART IS A ART OF IMPERFECTIONS</sub>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=40&section=footer" />
-</p>
