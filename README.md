@@ -10,33 +10,18 @@
   Webpage Builder • Figma Plugin Developer • Creative Technologist
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Interactive+Experiences;Building+Powerful+Figma+Plugins;JavaScript+%7C+TypeScript+%7C+Python;Design+Meets+Code" />
-</p>
+</p> -->
 
 ---
 
-## 🚀 About Me
+##About Me
 
-- 💡 I build modern, functional web experiences  
-- 🎨 I develop Figma plugins that automate design workflows  
-- ⚙️ I enjoy converting ideas into practical tools  
-- 🧠 Curious, hands-on, and always learning  
-
----
-
-## 🛠️ What I Specialize In
-
-### 🌐 Webpage Building
-- Responsive & accessible UI design
-- Frontend logic & performance optimization
-- JavaScript & TypeScript-based projects
-
-### 🎨 Figma Plugin Development
-- Custom plugin UIs (HTML, CSS, JS)
-- Font, text & layout automation
-- API & AI-integrated tools
-- Productivity-focused design utilities
+- I build modern, functional web experiences  
+- I develop Figma plugins that automate design workflows  
+- I enjoy converting ideas into practical tools  
+- Curious, hands-on, and always learning  
 
 ---
 
