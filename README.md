@@ -25,17 +25,12 @@
 
 ---
 
-## 💻 Programming Languages
+## Known Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c&theme=dark" />
 </p>
 
-- JavaScript  
-- TypeScript  
-- Python  
-- C  
-- ADA  
 
 ---
 
